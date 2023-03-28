@@ -1,0 +1,2 @@
+1) Extract all the three files together.
+2) Some of the features in the project need you to use real Email ID and Password.
